@@ -21,6 +21,7 @@ Map<String, dynamic> user2 = {
 bool f = false;
 bool t = true;
 dynamic dddd = "여기에는 뭐가 올 수 있음?";
+// dynamic -> Ojbect 와 유사한 개념(Java)
 
 void main() {
   // 메모리에 떠있기 때문에 실행 할 수 있음
